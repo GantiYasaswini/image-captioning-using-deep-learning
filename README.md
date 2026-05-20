@@ -92,7 +92,7 @@ The architecture combines:
 
 ## Sample Prediction
 
-![Sample Prediction](assets/sample_prediction.png)
+![Sample Prediction](assets/generated_captions_2.png)
 
 Example generated caption from the trained image captioning model.
 
@@ -146,12 +146,11 @@ image-caption-generator/
 ├── image_captioning.ipynb
 │
 ├── assets/
-│   ├── sample_prediction.png
+│   ├──caption_3.png
 │   ├── generated_captions_1.png
 |   ├── generated_captions_2.png
 │   ├── model_architecture.png
-|   ├── caption_4.png
-│   └── caption_3.png
+|   └──  caption_4.png
 ```
 
 ---
