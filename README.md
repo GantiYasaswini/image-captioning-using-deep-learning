@@ -147,11 +147,11 @@ image-caption-generator/
 │
 ├── assets/
 │   ├── sample_prediction.png
+│   ├── generated_captions_1.png
+|   ├── generated_captions_2.png
 │   ├── model_architecture.png
-│   └── caption_examples.png
-│
-└── sample_images/
-    └── sample_image.jpg
+|   ├── caption_4.png
+│   └── caption_3.png
 ```
 
 ---
